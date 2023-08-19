@@ -1,6 +1,0 @@
-{{#user}}
-Name: Mayuresh Suresh Kalal
-Skills: C, C++,Java, Python, HTML, CSS, Javascript, PHP, Laravel,
-        Software Testing.
-Email: mayureshkalal28@gmail.com
-{{/user}}
